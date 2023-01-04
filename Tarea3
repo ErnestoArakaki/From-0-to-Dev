@@ -1,0 +1,17 @@
+<html>
+    <head>
+        <title>Ejercicio Multimedia</title>
+    </head>
+    <body>
+        <h1>Aprendiendo a utilizar imágenes</h1>
+        <img src="https://www.cartonionline.com/wordpress/wp-content/uploads/2022/10/Pikachu.jpg" 
+        alt="300" width="300">
+        <br>
+        <h1>Aprendiendo a utilizar videos</h1>
+        <iframe width="1104" height="621" src="https://www.youtube.com/embed/Z-T_O_vl-8Y" title="SZA - Low (Audio)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        <video src="" controls autoplay muted></video>
+        <br>
+        <h1>Aprendiendo a utilizar audios</h1>
+        <audio src="" controls autoplay loop></audio>
+    </body>
+</html>
